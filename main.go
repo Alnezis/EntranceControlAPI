@@ -40,6 +40,8 @@ func main() {
 
 	router.HandleFunc("/user/get", token.IsAuthorized(controllers.GetUser)).Methods("GET")
 
+	router.HandleFunc("/appointments", controllers.Appointments).Methods("GET")
+
 	go firebase.Demon()
 
 	cert := "/etc/letsencrypt/live/alnezis.riznex.ru/fullchain.pem"

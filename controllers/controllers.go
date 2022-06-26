@@ -3,6 +3,7 @@ package controllers
 import (
 	"EntranceControlAPI/api"
 	"EntranceControlAPI/face"
+	"EntranceControlAPI/firebase"
 	"EntranceControlAPI/user"
 	"bytes"
 	"encoding/json"
@@ -42,6 +43,14 @@ func GetUser(w http.ResponseWriter, r *http.Request) {
 
 	json.NewEncoder(w).Encode(&Response{
 		Result: user.GetUser(id),
+	})
+}
+
+func Appointments(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json; charset=utf-8")
+
+	json.NewEncoder(w).Encode(&Response{
+		Result: firebase.Appointments(),
 	})
 }
 
