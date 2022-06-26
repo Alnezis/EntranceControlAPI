@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smartkindergarden",
+  "private_key_id": "52dc2afb11473dee83841d4c805e5745d152c129",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJvYX6KNMhi8yX\ntIl+7P1+8gF2+mozqC5I4x4JTB2a5CaaoOw3dEq4vUc/9VfQ4ES0sCG2FrJ96st6\nAu+j5NwjPM2QmKBx0yaB59pMexPRrI0iT+Fn6u72fxIofswTljWWVDr0Dduwdk6r\nQ7+b3deXFCqqa7JTR0m8C6nRjFW3PKB/xFNqjJjezuDFAxrXuqJUXfjFr+PGYSaI\nSaQMhZRu73nNjsF1+HV9uw26m5D0fzWTuEUQgwgJF4PlAb9iTglUO/dRvG4fDpKj\nRgOE9MhCz9Hy5Lly6jlI2DwDN+R591xl4QxiVXhpbimxy00LF+fN4O25ba5Y5rGa\nFH668A5VAgMBAAECggEAHdhnezhR79sOQ/1GAByQbhjgZZkrYAQIAOl0tpxnntQU\n7/hRqeyO52C9KzWhLboYAAE0o4sdEerL+nt3t2/yr1Xd9X/W8K/zuPEzhvAIYRMd\neA+IQcbsXlQzPAFyMI2e1OQWKqfoMeV2wviNXsJFlEi7/SVcptxbiLHTCDiyL57J\nw73RVN8eBoaVFzafKU7gbgwEHsZdSiiV8Z/P+V/l4d5p5dJN/y65xYNkxsq/+hyk\neHg3A385/3RFp9vBdfSFhoxfwh45hfAHkrjcfi5cVnecHLGcAFjA9RMGARAXKaDO\nWlTHlyYw9jbCzkW8pJpeRfUZAMLj/9DdMa9vBwRlewKBgQDkhmdwOHVpIKohmgNl\n8eDTc4DkWYuhuo8TQlisCAwGv+DxYi9CYaDV5d984DMmJjzNvmo91CfAMejfnOJH\nrNTn0IxhD+AESts556nWCzVyIuXSpd3PWOPF9MDtNP9jYEG3B2OYUjdSDSFxjGhf\nwY3XSFzuzhvllOWvhbfCVsze5wKBgQDh/rvfu1OkJBmJAWuOnSja/JN2BGM0E+4P\nkjPVmE0OUStmDGR6dYePo4zfzzY+FLqAhJv5K4fnTYEtf/g/zligywTZvwDSHtSA\nzrcQfv4SY8YSkVrO2piWsB9payMf0oMR0eYAiLytMfEYz2nz3bfg9Zc+zrNJjxSq\nZ1wffJbtYwKBgQDjt05xk8Djbeo6K3dBaaIn8ou4f8ZU9UrG3TDw09/wBdnHjpgb\nJJ+ZJUPq8pnlZOrn9dt2Guc1bEZqNLGCzKUnDjgkLCaFAHatn7wsDuVGA6JRoniB\nukjWJEru1AW859jz4kgLK7n2aCEwPcJv0LZflLsON5Gy1wl9OtjerZHedwKBgE6P\nfMPTnMnMesvzoG4dF9y4PJKkB9BMtU7YZgh0PyUg9lMtL6iaPpuiIRCUOajvD74p\nWwcNKNsxSByHBcc4dfq/WFpRWXmxmfGE6oJjgvLlmC9QNB8AQlbvtpuw0K75QPLq\n4meBIQWb/NHBGHXbt1YOSZtdw1lo0ahC8fVIHDc9AoGAHtVGSWNx//uOTn2zSQ2f\n3ZdVgqXnWEtW5wJX5UlpqChlrp6s4QgG8riX4Eb0/rINVzT+imGKpVNfLGNSxLvL\nAl8Li5buf7UBc9eZLfDGoPJU0BbP1+7TBoBEQHpBPwnXhhHz090J3RNgjdJjQs8H\n9GUp+97bQSOUw+ADmULYc1Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smartkindergarden@appspot.gserviceaccount.com",
+  "client_id": "102945283972914718169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smartkindergarden%40appspot.gserviceaccount.com"
+}
